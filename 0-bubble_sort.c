@@ -21,7 +21,6 @@ void swap_elements(int *a, int *b)
  * bubble_sort - implements bubble sort algorithm for int array
  * @array: Array input to sort
  * @size: Number of elements in the input array since input is pointer
- *
  */
 void bubble_sort(int *array, size_t size)
 {
